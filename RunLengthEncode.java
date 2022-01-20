@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class RunLengthEncode2 {
+public class RunLengthEncode {
 
     public static String Code(String string) {
         String new_string = "";
